@@ -5,9 +5,7 @@ An example of developing services as a python package
 ## Installation
 
 ```shell
-git clone https://github.com/tdd-ai/simple-tokenizer.git
-cd simple-tokenizer
-pip install -e .
+pip install simpletokenizer
 ```
 
 ## Usage
